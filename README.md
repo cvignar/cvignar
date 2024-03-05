@@ -2,7 +2,7 @@
 
 I'm Anna Uryvaeva, 42Wolfsburg and European Humanities University student.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cvignar&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cvignar)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **cvignar/cvignar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
